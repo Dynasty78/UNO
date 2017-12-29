@@ -70,7 +70,7 @@ public class Comunicacion {
          } catch (Exception e) {
              e.printStackTrace();
          }
-     }   
+     }    
      
      // Lista de puertos
      public static ArrayList<String> listaPuertos(){
